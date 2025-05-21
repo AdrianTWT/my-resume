@@ -13,7 +13,7 @@ const EducationInfo = ({
   achievements,
 }) => {
   return (
-    <div className="flex flex-col gap-y-2 bg-white/20 p-4 rounded-lg">
+    <div className="flex flex-col gap-y-2 bg-white/20 p-4 rounded-lg hover:bg-white/80 hover:text-black transform-all duration-300">
       <div className="flex justify-between">
         <span className="flex gap-x-2 text-blue-400 items-center">
           <BuildingLibraryIcon className="w-6 h-6" />

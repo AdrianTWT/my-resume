@@ -3,7 +3,7 @@ import WorkInfo from "../components/work-info";
 const WorkExperience = () => {
   return (
     <div className="relative w-full min-h-[100vh] flex flex-col">
-      <div className="absolute inset-0 bg-[url('/working-background.jpg')] bg-cover bg-center rounded-3xl" />
+      <div className="absolute inset-0 bg-[url('/working-background.jpg')] bg-cover bg-center rounded-3xl shadow-lg" />
       <div className="absolute inset-0 bg-black opacity-50 rounded-3xl" />
 
       <div className="z-10 flex flex-col gap-y-10 text-white p-8">

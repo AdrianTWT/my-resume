@@ -3,10 +3,10 @@ import EducationInfo from "../components/education-info";
 const Education = () => {
   return (
     <div className="relative w-full min-h-[100vh] flex flex-col">
-      <div className="absolute inset-0 bg-[url('/education-background.jpg')] bg-cover bg-center rounded-3xl" />
+      <div className="absolute inset-0 bg-[url('/education-background.jpg')] bg-cover bg-center rounded-3xl shadow-lg" />
       <div className="absolute inset-0 bg-black opacity-50 rounded-3xl" />
 
-      <div className="z-10 flex flex-col gap-y-10 text-white p-4">
+      <div className="z-10 flex flex-col gap-y-10 text-white p-8">
         <h1 className="text-center text-5xl font-jetbrains">Education & Extracurricular</h1>
         <EducationInfo
           institution={"UNIVERSITI TEKONOLOGI MALAYSIA (UTM)"}
