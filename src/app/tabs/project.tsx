@@ -35,7 +35,7 @@ const Project = () => {
           <p className="text-center font-bold mb-2">Final Year Project - 2D Role-Playing Game With Educational Purpose Related To Malaysia Cultures And History</p>
           <ul className="list-disc pl-5 space-y-4 text-justify">
             <li>Designed the framework of the 2D RPG based on Malaysia cultures and history as a guideline for the development phase</li>
-            <li>Developed a desktop-based 2D RPG that is proven to improve students' understanding of the knowledge effectively</li>
+            <li>Developed a desktop-based 2D RPG that is proven to improve students&apos; understanding of the knowledge effectively</li>
             <li>Managed character design, level design, UI/UX design, storyline, combat mechanics, animations, coding singlehandedly</li>
           </ul>
         </div>

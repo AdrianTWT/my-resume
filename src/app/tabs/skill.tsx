@@ -15,7 +15,7 @@ const Skill = () => {
 
           <h2 className={skillTitleStyle}>Qualification</h2>
           <p className="text-xl text-white relative z-10">
-            Earned a certificate for completing the course '
+            Earned a certificate for completing the course &apos;
             <a
               href="https://www.udemy.com/certificate/UC-b37fef98-819e-4bc6-9af7-42848c956cea/"
               target="_blank"
@@ -23,7 +23,7 @@ const Skill = () => {
             >
               React Native - The Practical Guide [2024]
             </a>
-            ' on Udemy.
+            &apos; on Udemy.
           </p>
         </div>
 

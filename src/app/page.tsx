@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Summary from "./tabs/summary";
 import Headline from "./headline";
 import AboutMe from "./tabs/about-me";
